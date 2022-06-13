@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/unpieceof/soom#readme",
   "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.5",
+    "@babel/node": "^7.18.5",
     "nodemon": "^2.0.16"
   }
 }

@@ -1,2 +1,3 @@
-# soom
-Zoom Clone Project - Realtime Video Chat
+# Soom
+
+Zoom Clone using NodeJS, WebRTC and Websockets.

@@ -15,11 +15,8 @@ const handleListen = () => console.log(`Listening on http://localhost:3000`);
 const server = http.createServer(app);
 const wss = new WebSocket.Server({server});
 
-function handleConnection(socket) {
-    console.log(socket);
-    // socket = 연결된 브라우저 자체 
-}
-
-wss.on("connection", handleConnection);
+wss.on("connection", (socket) => {
+    socket.send("hello!!!");
+});
 
 server.listen(3000, handleListen);

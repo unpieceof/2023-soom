@@ -1,6 +1,6 @@
 # Soom
 
-Zoom Clone using NodeJS, WebRTC and Websockets.
+> Zoom Clone using NodeJS, WebRTC and Websockets.
 
 ## 1 CHAT WITH WEBSOCKETS
 - [X] 1.1 HTTP vs WebSockets (09:05)
@@ -12,6 +12,9 @@ Zoom Clone using NodeJS, WebRTC and Websockets.
 - [X] 1.7 Nicknames part One (12:02)
 - [X] 1.8 Nicknames part Two (13:18)
 - [X] 1.9 Conclusions (07:24)
+
+### 📷 ~ 1.9 Screenshot
+![스크린샷 2022-06-16 오후 11 22 04](https://user-images.githubusercontent.com/101758997/174091298-68308c1e-5d10-47b7-9d56-9d5d09f6ad20.png)
 
 ## 2 SOCKETIO
 - [ ] 2.0 SocketIO vs WebSockets (07:20)

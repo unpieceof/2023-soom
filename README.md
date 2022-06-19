@@ -17,9 +17,9 @@
 ![스크린샷 2022-06-16 오후 11 22 04](https://user-images.githubusercontent.com/101758997/174091298-68308c1e-5d10-47b7-9d56-9d5d09f6ad20.png)
 
 ## 2 SOCKETIO
-- [ ] 2.0 SocketIO vs WebSockets (07:20)
-- [ ] 2.1 Installing SocketIO (07:51)
-- [ ] 2.2 SocketIO is Amazing (10:15)
+- [X] 2.0 SocketIO vs WebSockets (07:20)
+- [X] 2.1 Installing SocketIO (07:51)
+- [X] 2.2 SocketIO is Amazing (10:15)
 - [ ] 2.3 Recap (11:55)
 - [ ] 2.4 Rooms (11:35)
 - [ ] 2.5 Room Messages (07:01)

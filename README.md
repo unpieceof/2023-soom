@@ -22,7 +22,7 @@
 - [X] 2.2 SocketIO is Amazing (10:15)
 - [X] 2.3 Recap (11:55)
 - [X] 2.4 Rooms (11:35)
-- [ ] 2.5 Room Messages (07:01)
+- [X] 2.5 Room Messages (07:01)
 - [ ] 2.6 Room Notifications (13:20)
 - [ ] 2.7 Nicknames (09:44)
 - [ ] 2.8 Room Count part One (15:23)

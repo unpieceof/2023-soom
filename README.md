@@ -23,7 +23,7 @@
 - [X] 2.3 Recap (11:55)
 - [X] 2.4 Rooms (11:35)
 - [X] 2.5 Room Messages (07:01)
-- [ ] 2.6 Room Notifications (13:20)
+- [X] 2.6 Room Notifications (13:20)
 - [ ] 2.7 Nicknames (09:44)
 - [ ] 2.8 Room Count part One (15:23)
 - [ ] 2.9 Room Count part Two (08:10)

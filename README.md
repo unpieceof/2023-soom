@@ -1,7 +1,7 @@
 # Soom 
 
 > Zoom Clone using NodeJS, WebRTC and Websockets.
-
+ 
 ## 1 CHAT WITH WEBSOCKETS
 - [X] 1.1 HTTP vs WebSockets (09:05)
 - [X] 1.2 WebSockets in NodeJS (11:34)

@@ -2,7 +2,7 @@
 
 > Zoom Clone using NodeJS, WebRTC and Websockets.
 
-![image](https://github.com/unpieceof/2023-soom/assets/101758997/f4fb37ef-dff1-4704-a887-b72120a02ebd)
+![image](https://github.com/unpieceof/2023-soom/assets/101758997/743bd843-6049-4e32-8d4b-332e1a6fc156)
 
  
 ## 1 CHAT WITH WEBSOCKETS
